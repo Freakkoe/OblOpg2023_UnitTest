@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatoriskOpgave2023v2", "ObligatoriskOpgave2023v2\ObligatoriskOpgave2023v2.csproj", "{E84598C8-6939-48E2-A736-EC8581198327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatoriskOpgave2023v2Tests", "ObligatoriskOpgave2023v2Tests\ObligatoriskOpgave2023v2Tests.csproj", "{17E2B648-BF6F-4255-BB9D-E2DC4FDBC6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84598C8-6939-48E2-A736-EC8581198327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84598C8-6939-48E2-A736-EC8581198327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84598C8-6939-48E2-A736-EC8581198327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84598C8-6939-48E2-A736-EC8581198327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E2B648-BF6F-4255-BB9D-E2DC4FDBC6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E2B648-BF6F-4255-BB9D-E2DC4FDBC6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E2B648-BF6F-4255-BB9D-E2DC4FDBC6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E2B648-BF6F-4255-BB9D-E2DC4FDBC6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BC1C5F-0288-4E07-98C2-F3C34077EF95}
+	EndGlobalSection
+EndGlobal
